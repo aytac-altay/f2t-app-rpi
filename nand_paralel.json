@@ -1,0 +1,11 @@
+{
+  "nand": {
+    "0x98DA9015F6": {
+      "model": "TC58NVG1S3HTA00",
+      "page_size": 2048,
+      "oob_size": 128,
+      "block_size_kb": 128,
+      "total_blocks": 2048
+    }
+  }
+}

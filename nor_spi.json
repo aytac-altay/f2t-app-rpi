@@ -1,0 +1,22 @@
+{
+  "nor": {
+    "0xC84018": {
+      "model": "MD25Q128SIG",
+      "page_size": 256,
+      "sector_size_kb": 4,
+      "total_mb": 16
+    },
+    "0xEF4018": {
+      "model": "W25Q128",
+      "page_size": 256,
+      "sector_size_kb": 4,
+      "total_mb": 16
+    },
+    "0x681015": {
+      "model": "BY25Q16",
+      "page_size": 256,
+      "sector_size_kb": 4,
+      "total_mb": 2
+    }
+  }
+}

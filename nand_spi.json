@@ -1,0 +1,39 @@
+{
+  "nand": {
+    "0x002C24": {
+      "model": "26G02ELGIG",
+      "page_size": 2048,
+      "oob_size": 64,
+      "block_size_kb": 128,
+      "total_blocks": 2048
+    },
+    "0x00E571": {
+      "model": "DS35Q1GA",
+      "page_size": 2048,
+      "oob_size": 64,
+      "block_size_kb": 128,
+      "total_blocks": 1024
+    },
+    "0x00E5B2": {
+      "model": "DS35Q02",
+      "page_size": 2048,
+      "oob_size": 128,
+      "block_size_kb": 128,
+      "total_blocks": 2048
+    },
+    "0x00EFAA": {
+      "model": "W25N01GV",
+      "page_size": 2048,
+      "oob_size": 64,
+      "block_size_kb": 128,
+      "total_blocks": 1024
+    },
+    "0x000B11": {
+      "model": "XT26G01CWSIG",
+      "page_size": 2048,
+      "oob_size": 128,
+      "block_size_kb": 128,
+      "total_blocks": 1024
+    }
+  }
+}
