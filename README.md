@@ -1,5 +1,7 @@
 # F2T - Raspberry Pi Flash Memory Programmer & Analyzer Tool
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [🇹🇷 Türkçe](#türkçe) | [🇬🇧 English](#english)
 
 ---
@@ -109,8 +111,15 @@ python3 info_spi.py
 │   ├── cJSON.c
 │   └── cJSON.h
 ├── .gitignore           # Ignores test dumps and incomplete files
+├── LICENSE              # MIT License
 └── README.md
 ```
+
+---
+
+### 📄 License
+
+This project is open-source and licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -219,5 +228,12 @@ python3 info_spi.py
 │   ├── cJSON.c
 │   └── cJSON.h
 ├── .gitignore           # Test dökümleri ve tamamlanmamış dosyaları hariç tutar
+├── LICENSE              # MIT Lisansı
 └── README.md
 ```
+
+---
+
+### 📄 Lisans
+
+Bu proje açık kaynaklı olup [MIT Lisansı](LICENSE) kapsamında lisanslanmıştır.
